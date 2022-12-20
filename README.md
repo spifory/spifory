@@ -1,7 +1,10 @@
-This is a **README** page, therefore you are now **reading me** now. Also I made some [Discord Bot](https://ezar.shamdev.xyz) (go yell at [Alexy](https://github.com/ItsNotAlexy) for not revamping website) that does stuff.
+# toolifelesstocode
 
-Uhhhhhh, I have a Discord server too, where you can talk with me and some people: https://discord.gg/VTPzbjRFpF
+Hi there! I'm Sham/toolifelesstocode! I am a backend software developer who is mostly interested in making bots for chat platforms such as Discord and Eludris. I usually mess around with Python and TypeScript, and I am currently learning Golang.
 
-Also here is some thing:
+I am currently working on some projects at [PrimerNetwork](https://github.com/PrimerNetwork).
+
+------------
+## Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=toolifelesstocode&count_private=true&theme=midnight-purple)
