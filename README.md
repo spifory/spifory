@@ -5,4 +5,4 @@ Hi there! I'm Sham/toolifelesstocode! I am a backend software developer who is m
 ------------
 ## Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=toolifelesstocode&count_private=true&theme=midnight-purple)
+![](https://github-readme-stats.vercel.app/api?username=toolifelesstocode&count_private=true&theme=midnight-purple&show_icons=true&hide_border=true)
