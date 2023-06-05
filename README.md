@@ -1,6 +1,8 @@
-# toolifelesstocode
+# spifory
 
-Hi there! I'm Sham/toolifelesstocode! I am a backend software developer who is mostly interested in making bots for chat platforms such as Discord and Eludris. I usually mess around with Python and TypeScript, and I am currently learning Golang and Rust.
+Hi there! I'm spifory! I am a backend software developer who is mostly interested in making bots for chat platforms such as Discord and Eludris. I usually mess around with Python and TypeScript, and I am currently learning Golang and Rust.
+
+**Formerly Sham/toolifelesstocode**
 
 ------------
 ## Statistics
