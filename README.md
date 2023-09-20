@@ -7,4 +7,4 @@ Hi there! I'm spifory! I am a backend software developer who is mostly intereste
 ------------
 ## Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=spifory&count_private=true&theme=midnight-purple&show_icons=true&hide_border=true)
+![spifory's GitHub Stats (If you cannot see anything, reload the page)](https://github-readme-stats.spf.lol/api?username=spifory&count_private=true&theme=midnight-purple&show_icons=true&hide_border=true)
