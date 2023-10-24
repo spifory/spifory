@@ -1,10 +1,8 @@
 # spifory
 
-Hi there! I'm spifory! I am a backend software developer who is mostly interested in making bots for chat platforms such as Discord and Eludris. I usually mess around with Python and TypeScript, and I am currently learning Golang and Rust.
+Hello there! I'm Luvuyo (known as spifory) and I am a backend developer who primarily works with creating projects in Typescript and/or Python! I am currently learning Rust (pretty nice language). I mainly contribute to open-source projects whilst also creating my own ~~crappy~~ projects at the same time.
 
-**Formerly Sham/toolifelesstocode**
-
-------------
 ## Statistics
 
-![spifory's GitHub Stats (If you cannot see anything, reload the page)](https://github-readme-stats.spf.lol/api?username=spifory&count_private=true&theme=midnight-purple&show_icons=true&hide_border=true)
+| [![spifory's GitHub stats](https://github-readme-stats.spf.lol/api?username=spifory&hide_border=true&include_all_commits=true&show_icons=true&theme=midnight-purple&show=prs_merged,prs_merged_percentage,reviews)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.spf.lol/api/top-langs/?username=spifory&hide=shell&layout=donut&theme=midnight-purple&hide_border=true) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
